@@ -26,6 +26,7 @@ Tools that use AI to grow your X audience automatically.
 - **[CloneX Follow](https://www.blockmm.ai/services/clonex-follow)** — Targets the engaged audience of competitor accounts you specify. Points AI at up to 5 accounts and harvests their active followers.
 - **[Hypefury](https://hypefury.com)** — AI-assisted content scheduling and auto-retweet of your best posts.
 - **[Taplio](https://taplio.com)** — LinkedIn-first but includes X scheduling with AI content suggestions.
+- **[x-skills](https://github.com/sergebulaev/x-skills)** — Open-source Claude Code and Codex skills that write tweets and threads with corpus-validated hook formulas, extract the hook from any viral tweet, draft replies, and read your niche via Apify. Draft-and-approve, no autopilot. MIT.
 
 ---
 
