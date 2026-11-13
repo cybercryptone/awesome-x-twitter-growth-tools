@@ -64,6 +64,7 @@ Tools that use AI to grow your X audience automatically.
 - **[Audiense](https://audiense.com)** — Deep audience segmentation and persona analysis for X.
 - **[Followerwonk](https://followerwonk.com)** — Search X bios, compare audiences, analyze followers.
 - **[SparkToro](https://sparktoro.com)** — Audience intelligence — where do your ideal followers spend time?
+- **[twtData](https://twtdata.com/download-twitter-followers/)** — Export the followers or following of any public X account to CSV, with bio, location, follower count and join date for each.
 
 ---
 
